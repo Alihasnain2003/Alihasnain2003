@@ -1,6 +1,7 @@
 # 💫 About Me:
-📝 I'm currently working on ML <br>🤝 I'm currently learning n8n <br>💡 Ask me about n8n,ML<br>
+I'm a Software Engineer with a passion for building scalable, user-focused applications. I specialize in full-stack development and enjoy working with modern technologies to solve real-world problems. Whether it's crafting intuitive frontends or optimizing backend systems, I love turning ideas into code.
 
+🌟 Currently: Working on a personal project to streamline task management and contributing to open-source projects.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ali Hasnain) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Itx_alii28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ali Hasnain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alihasnain227038@gmail.com) 
