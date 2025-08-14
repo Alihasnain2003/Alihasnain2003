@@ -1,5 +1,5 @@
 # 💫 About Me:
-📝 I'm currently working on ML <br>🤝 I'm looking to collaborate on<br>🙌 🌱 I'm currently learning n8n <br>💡 Ask me about n8n,ML<br>
+📝 I'm currently working on ML <br>🤝 I'm currently learning n8n <br>💡 Ask me about n8n,ML<br>
 
 
 ## 🌐 Socials:
