@@ -9,14 +9,22 @@ Passionate about advancements in ML, automation workflows, web technologies, and
 
 💻 TECHNICAL EXPERTISE:
 ML Development: Building and optimizing machine learning models.
+
 n8n Automation: Designing efficient workflows for automation tasks.
+
 Web Development: Crafting responsive and dynamic web applications.
+
 Flutter Development: Creating cross-platform mobile applications.
+
 Open-Source Contributions: Actively contributing to ML and web projects.
+
 Data Processing: Skilled in handling and analyzing large datasets.
+
 Python & Dart: Proficient in Python for ML and Dart for Flutter development.
+
 UI/UX Design: Enhancing user experiences with intuitive designs.
 
 🌐 COMMUNITY ENGAGEMENT:
 Regular contributor to discussions on ML and web development on Medium.
+
 Enthusiastic about collaborating on open-source projects on GitHub.
