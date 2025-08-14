@@ -11,6 +11,7 @@ Currently pursuing my bachelor's degree at China West Normal University.
 Passionate about advancements in ML, automation workflows, web technologies, and mobile app development through hands-on projects.
 
 💻 TECHNICAL EXPERTISE:
+
 ML Development: Building and optimizing machine learning models.
 
 n8n Automation: Designing efficient workflows for automation tasks.
@@ -28,6 +29,7 @@ Python & Dart: Proficient in Python for ML and Dart for Flutter development.
 UI/UX Design: Enhancing user experiences with intuitive designs.
 
 🌐 COMMUNITY ENGAGEMENT:
+
 Regular contributor to discussions on ML and web development on Medium.
 
 Enthusiastic about collaborating on open-source projects on GitHub.
